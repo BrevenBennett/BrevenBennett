@@ -4,6 +4,10 @@
 
 Hi! My name is Breven and I'm passionate about frontend development and creating captivating user experiences. With a keen eye for design and a love for clean, efficient code, I specialize in crafting seamless web applications and interactive interfaces. I thrive on turning ideas into reality through a combination of creativity and technical expertise. Whether it's building responsive websites, optimizing performance, or exploring the latest frontend technologies, I'm dedicated to delivering high-quality solutions that exceed expectations. Explore my repositories to see some of my projects, and feel free to reach out for collaboration or any questions you may have. Let's create something amazing together!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breven-bennett/)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.brevenbennett.com/)
+
+
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
 <img src="https://github.com/BrevenBennett/BrevenBennett/assets/118828879/ec6546ee-306e-40a6-90f6-a8078a8bc2a1" width="40" /> &emsp;
 <img src="https://github.com/BrevenBennett/BrevenBennett/assets/118828879/8618f7ec-5611-47b5-8f4d-881334a8f6a9" width="40" /> &emsp;
