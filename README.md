@@ -1,6 +1,6 @@
 # :zap: Breven Bennett
 
-`Software Engineer`
+`BDR`
 
 Hi! My name is Breven and I'm a Business Development Representative who brings technical expertise to tech sales. Having transitioned from frontend development, I combine my passion for technology with the ability to understand and communicate complex technical solutions. While my day job focuses on connecting businesses with transformative tech solutions, I occasionally code in my free time, specializing in crafting seamless web applications and interactive interfaces. Explore my repositories to see some of my projects, and feel free to reach out for collaboration, questions about tech sales, or development discussions.
 
