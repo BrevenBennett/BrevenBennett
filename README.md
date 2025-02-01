@@ -2,7 +2,7 @@
 
 `Software Engineer`
 
-Hi! My name is Breven and I'm passionate about frontend development and creating captivating user experiences. With a keen eye for design and a love for clean, efficient code, I specialize in crafting seamless web applications and interactive interfaces. I thrive on turning ideas into reality through a combination of creativity and technical expertise. Whether it's building responsive websites, optimizing performance, or exploring the latest frontend technologies, I'm dedicated to delivering high-quality solutions that exceed expectations. Explore my repositories to see some of my projects, and feel free to reach out for collaboration or any questions you may have. Let's create something amazing together!
+Hi! My name is Breven and I'm a Business Development Representative who brings technical expertise to tech sales. Having transitioned from frontend development, I combine my passion for technology with the ability to understand and communicate complex technical solutions. While my day job focuses on connecting businesses with transformative tech solutions, I occasionally code in my free time, specializing in crafting seamless web applications and interactive interfaces. Explore my repositories to see some of my projects, and feel free to reach out for collaboration, questions about tech sales, or development discussions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breven-bennett/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.brevenbennett.com/)
